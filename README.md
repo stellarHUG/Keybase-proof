@@ -1,5 +1,3 @@
-# Keybase-proof
-Keybase proof
 ### Keybase proof
 
 I hereby claim:
